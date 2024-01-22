@@ -328,7 +328,8 @@ outline: 2px solid red;
 /* styles.css */
 
 .skills-section {
-  padding: 50px 0;
+ margin-top: 40px;
+  padding: 20px 0;
   text-align: center;
 }
 
@@ -340,10 +341,11 @@ outline: 2px solid red;
 }
 
 .skill-card {
-  background-color: #ffe601;
+
   padding: 20px;
   border-radius: 8px;
   margin-bottom: 30px;
+  border: #000;
 }
 
 .skill-title {
